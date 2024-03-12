@@ -29,7 +29,7 @@
                         <p class="wow fadeIn" data-wow-delay="0.3s">Em suma, o que se busca com a regulamentação nos Estados e Distrito Federal, a exemplo da União e do Estado do Ceará, é a criação de órgãos e de procedimentos necessários para construção de um Sistema Público de Acesso à Informação capaz de viabilizar, no plano concreto, o direito fundamental de acesso à informação.</p>
 
                         <!-- IMAGEM NO SITE  -->
-                        <div class="text-center img-01">
+                        <div class="text-center img-01 wow animate__zoomIn">
                             <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 1:</strong>
                             Sistema Público de Acesso à Informação</p>
                                 <div class="zoom">
@@ -86,6 +86,7 @@
                             <i class="fa-solid fa-chevron-right"></i></a>
                     </div>
                     <!-- BARRA DE PROGRESSO -->
+                    <div id="progress-bar"></div>
 
                     <!-- FOOTER -->
                     <?php 

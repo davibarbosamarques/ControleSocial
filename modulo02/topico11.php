@@ -177,7 +177,7 @@
                             <p class="wow fadeIn" data-wow-delay="0.3s">No Estado do Ceará, a previsão de dados abertos está contida na Lei Estadual n.º 15.175/2012, em seu artigo 11, § 3°. Segundo a referida legislação os dados abertos devem ser divulgados em sites institucionais e no Portal da Transparência (Ceará Transparente).</p>
 
                             <!-- IMAGEM NO SITE  -->
-                            <div class="text-center img-01">
+                            <div class="text-center img-01 wow animate__zoomIn">
                                
                                     <div class="zoom">
                                         <a href="..." data-bs-toggle="modal" data-bs-target="#Imagem1">

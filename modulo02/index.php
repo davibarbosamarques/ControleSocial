@@ -34,22 +34,13 @@
                                 <p class="texto_dark apresentacao_texto wow zoomIn" data-wow-delay="0.3s">
                                 Olá, <!--<br />
                                 <b>Warning</b>:  Undefined variable $NomeUsuario in <b>/var/www/html/ModeloRecursos/index.php</b> on line <b>32</b><br />
-                                --> bem-vindo ao <strong> módulo 02 </strong> do curso Controle Social. Bons estudos!
+                                --> bem-vindo ao <strong> módulo 02 </strong> do curso Controle Social. Bons estudos! Este módulo abordará os conceitos introdutórios sobre o direito de acesso à informação e o sistema estadual de acesso à informação.
                                 </p>
                                 </div>
 
 
                             </div>
-                            <!-- Accordion com texto sobre o que será visto no curso -->
-                            <div class="accordion destaques wow fadeInLeftBig" data-wow-delay="0.3s">
-                                <button class="accordion-button clapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false">
-                                    <h5>O que você verá agora?<span class="fw-lighter"><br>(Clique aqui para saber mais)</span></h5>
-                                </button>
-                                <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse">
-                                    <div class="accordion-content">
-                                    Este módulo abordará os conceitos introdutórios sobre o direito de acesso à informação e o sistema estadual de acesso à informação.
-                                    </div>
-                                </div>
+                           
                             </div>
                             <div class="text-center">
                                 <a href="topico01.php" class="btn btn-outline-success" role="button" aria-pressed="true">Próximo <i class="fa-solid fa-chevron-right"></i></a>
