@@ -35,6 +35,11 @@
                                     </div>
                                 </div>
                             </div>
+
+                            <div id="subtopico03.1"></div>
+                        <!-- Subtopico -->
+                        <h3 class="Subtopico">Conceito de Informação Pública</h3>
+
                         <p class="wow fadeIn" data-wow-delay="0.3s">A própria legislação traz a conceituação de informação pública, mas é de suma importância enfatizarmos a definição doutrinária da informação pública, tendo em vista a sua abordagem ampla, que leva em consideração aspectos que vão além da simples aplicação de uma legislação. Assim, consideraremos, neste curso, o conceito adotado por Batista (2010, p.40) no trabalho de dissertação de mestrado apresentado à Escola de Comunicações e Artes da Universidade de São Paulo. Nesse trabalho a autora assim se manifesta:</p>
 
                         <!-- Destaque verde -->
@@ -46,7 +51,7 @@
 
                         <p class="wow fadeIn" data-wow-delay="0.3s">Sobressai do conceito os atributos que dizem respeito à natureza jurídica de bem público e à capacidade de afetar elementos da estrutura social. Esse último aspecto diz muito sobre a capacidade de a sociedade poder influenciar a gestão pública, por meio do controle social, evidenciando situações de melhorias, de irregularidades sanáveis ou até mesmo de corrupção no trato da coisa pública.</p>
 
-                        <div id="subtopico03.1"></div>
+                        <div id="subtopico03.2"></div>
                         <!-- Subtopico -->
                         <h3 class="Subtopico">Informação Pública Versos Informação Pessoal</h3>
 
@@ -92,7 +97,7 @@
 
                         <p class="wow fadeIn" data-wow-delay="0.3s">Ante o exposto, e considerando a relevância da matéria, é necessário salientar que informações pessoais terão seu acesso restrito, independentemente de classificação de sigilo, pelo prazo máximo de 100 (cem) anos a contar da sua data de produção, a agentes públicos legalmente autorizados e à pessoa a que elas se referirem.</p>
                         
-                        <div id="subtopico03.2"></div>
+                        <div id="subtopico03.3"></div>
                         <h3 class="Subtopico">Classificação, Desclassificação e a Reavaliação de Informações Sigilosas.</h3>
 
                         <p class="wow fadeIn" data-wow-delay="0.3s">A noção de restrição de acesso à informação por meio de classificação encontra amparo na própria Constituição Federal, no inciso XXXIII do art. 5º, que eleva o direito de acesso à informação à categoria de direito fundamental. Ao disciplinar este dispositivo, a Lei de Acesso estabeleceu apenas nove hipóteses de restrição de acesso que representam atributos que podem ser identificados nas informações. Estão sujeitas à classificação, portanto, as informações que possam:</p>

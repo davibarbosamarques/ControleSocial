@@ -37,7 +37,7 @@
     <!-- Sub tópicos -->
     <div class="dropdown-container">
         <a href="topico02.php">
-            <i class="bi bi-journals circulo"></i>O Sistema Estadual de Acesso à Informaçã</a>
+            <i class="bi bi-journals circulo"></i>O Sistema Estadual de Acesso à Informação</a>
         <a href="#subtopico02.1">
             <i class="bi bi-journals circulo"></i>Conselho Estadual de Acesso à Informação (CEAI)</a>
         <a href="#subtopico02.2">
@@ -60,9 +60,11 @@
     <div class="dropdown-container">
         <a href="topico03.php">
             <i class="bi bi-journals circulo"></i>Da Informação Pública</a>
-        <a href="#subtopico03.1">
-            <i class="bi bi-journals circulo"></i>Informação Pública Versus Informação Pessoal</a>
+            <a href="#subtopico03.1">
+            <i class="bi bi-journals circulo"></i>Conceito de Informação Pública</a>
         <a href="#subtopico03.2">
+            <i class="bi bi-journals circulo"></i>Informação Pública Versus Informação Pessoal</a>
+        <a href="#subtopico03.3">
             <i class="bi bi-journals circulo"></i>Classificação, Desclassificação e a Reavaliação de Informações Sigilosas.</a>
     </div>
 
